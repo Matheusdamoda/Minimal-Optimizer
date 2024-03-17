@@ -1,10 +1,16 @@
 @echo off
-echo Limpando a pasta Temp...
-del /S /Q "%temp%\*.*"
-echo Limpeza da pasta Temp concluída!
+:: Criar arquivo temporário para indicar início da otimização
+echo. > C:\Windows\Cursors\otimizando.tmp
 
-echo Limpando arquivos de log do sistema...
-for /D %%p in ("%SystemRoot%\System32\LogFiles\*.*") do del "%%p\*.*" /S /Q
-echo Limpeza de arquivos de log do sistema concluída!
+:: Adicione seus comandos de otimização aqui
+echo Iniciando otimização...
+timeout /t 5
 
-pause
+:: Simulação de comandos de otimização
+echo Otimização em andamento...
+timeout /t 5
+
+:: Deletar o arquivo temporário para indicar o fim da otimização
+del C:\Windows\Cursors\otimizando.tmp
+
+echo Otimização concluída.
