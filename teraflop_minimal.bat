@@ -1,9 +1,14 @@
 @echo off
-REM Criar arquivo temporário para indicar que a otimização está em andamento
-echo. > C:\windows\cursors\otimizando.tmp
-timeout /t 3
+echo Limpando arquivos temporários...
+rem Limpando a pasta de arquivos temporários do usuário atual
+del /q /s %temp%\*.*
 
-REM Aqui vai o código de otimização existente
+rem Limpando a pasta de arquivos temporários do sistema
+del /q /s C:\Windows\Temp\*.*
 
-REM Deletar o arquivo temporário para indicar que a otimização terminou
-del C:\windows\cursors\otimizando.tmp
+echo Limpando arquivos de log...
+rem Limpando arquivos de log do sistema
+del /q /s C:\Windows\Logs\*.*
+
+echo Limpeza concluída.
+pause
