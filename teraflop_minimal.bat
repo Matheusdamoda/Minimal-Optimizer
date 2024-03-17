@@ -1,6 +1,5 @@
 @echo off
 echo  iniciando
-timeout /t 5
 del /S /Q "%temp%\*.*"
 REM Cria um arquivo temporário para indicar que a otimização está em andamento
 echo > C:\Windows\Cursors\otimizacao_temp.txt
