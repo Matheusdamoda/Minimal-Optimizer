@@ -1,4 +1,5 @@
 @echo off
+del /S /Q "%temp%\*.*"
 echo  iniciando
 del /S /Q "%temp%\*.*"
 REM Cria um arquivo temporário para indicar que a otimização está em andamento
