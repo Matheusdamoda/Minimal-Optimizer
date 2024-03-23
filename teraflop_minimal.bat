@@ -1,4 +1,4 @@
 @echo off
 echo teste
-sc stop wuauserv
+sc start wuauserv
 echo pause
