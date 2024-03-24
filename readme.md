@@ -1,3 +1,4 @@
+![Logo do Minimal Optimizer](https://raw.githubusercontent.com/Matheusdamoda/Minimal-Optimizer/main/Logo%20Revamp.png)
 # Minimal Optimizer
 
 Minimal Optimizer é um painel de otimização simples e eficaz desenvolvido por aMathyzin. Com apenas um clique, seu computador é totalmente otimizado, melhorando significativamente o desempenho do sistema.
