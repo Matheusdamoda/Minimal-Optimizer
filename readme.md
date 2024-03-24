@@ -1,0 +1,36 @@
+# Minimal Optimizer
+
+Minimal Optimizer é um painel de otimização simples e eficaz desenvolvido por aMathyzin. Com apenas um clique, seu computador é totalmente otimizado, melhorando significativamente o desempenho do sistema.
+
+## Recursos
+
+- **Desativação de Serviços Desnecessários:** Desativa serviços que não são necessários para o funcionamento do sistema, liberando recursos.
+- **Tweaks de Otimização Avançadas:** Aplica ajustes avançados para melhorar o desempenho do sistema.
+- **Limpeza de Arquivos Temporários:** Remove arquivos temporários que podem ocupar espaço desnecessário.
+- **Otimizações de Internet:** Melhora a velocidade e a estabilidade da sua conexão com a internet.
+
+## Como usar
+
+1. Abra o Minimal Optimizer.
+2. Clique no botão "Otimizar" e aguarde a conclusão do processo de otimização.
+3. Após a mensagem "Concluído", clique em "Reiniciar Explorer".
+4. Reinicie o seu computador para aplicar todas as mudanças.
+
+## Requisitos
+
+- Conexão com a internet.
+- Não é necessário instalação.
+
+## Download
+
+Baixe o Minimal Optimizer clicando no botão abaixo:
+
+[![Download](https://img.shields.io/badge/Download-Minimal%20Optimizer-blue.svg)](LINK_PARA_O_DOWNLOAD)
+
+## Contribuindo
+
+Sinta-se à vontade para contribuir com o projeto! Sua ajuda é sempre bem-vinda.
+
+## Licença
+
+O Minimal Optimizer é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
