@@ -11,6 +11,7 @@ Minimal Optimizer é um painel de otimização simples e eficaz desenvolvido por
 - **Otimizações de Internet:** Melhora a velocidade e a estabilidade da sua conexão com a internet.
 
 ## Como usar
+![INTERFACE EXEMPLO](https://cdn.discordapp.com/attachments/1216556917435007026/1221347989553938502/Screenshot_7.png?ex=66123ff4&is=65ffcaf4&hm=082667f4d50eaddddaddfcdc18681b3c76b4ce7166ce5edea9fe65334a1770f8&)
 
 1. Abra o Minimal Optimizer.
 2. Clique no botão "Otimizar" e aguarde a conclusão do processo de otimização.
