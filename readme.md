@@ -25,7 +25,7 @@ Minimal Optimizer é um painel de otimização simples e eficaz desenvolvido por
 
 Baixe o Minimal Optimizer clicando no botão abaixo:
 
-[![Download](https://img.shields.io/badge/Download-Minimal%20Optimizer-blue.svg)]((https://cdn.discordapp.com/attachments/1216556917435007026/1221342585973510244/Minimal_Optimizer.exe?ex=66123aeb&is=65ffc5eb&hm=0c3f81ce2fcb7b32d87a7767c21dc54a9183822211156ffacc606bc525a24e5a&))
+[![Download](https://img.shields.io/badge/Download-Minimal%20Optimizer-blue.svg)](https://cdn.discordapp.com/attachments/1216556917435007026/1221342585973510244/Minimal_Optimizer.exe?ex=66123aeb&is=65ffc5eb&hm=0c3f81ce2fcb7b32d87a7767c21dc54a9183822211156ffacc606bc525a24e5a&)
 
 ## Contribuindo
 
